@@ -12,7 +12,7 @@ This is a simple console-based game written in C# using .NET.
 
 📥 Download & Play
 
-Head over to the <a href="Releases page to download the latest version for your system:
+Head over to the <a href="https://github.com/FroSty361/Console-Tetris/releases">Releases</a> page to download the latest version for your system:
 
 🖥️ Windows: Download MyGame-Windows.zip
 
