@@ -24,7 +24,7 @@ How to Run,
 
 1. Download the zip for your system.
 
-2. Extract it.
+2. Extract it, scroll to the Tetris.exe
 
 3. Play!
 
