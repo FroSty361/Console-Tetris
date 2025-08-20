@@ -20,10 +20,10 @@ Head over to the <a href="https://github.com/FroSty361/Console-Tetris/releases">
 
 🍏 MacOS: Download MyGame-MacOS.zip
 
-How to Run
+How to Run,
 
-Download the zip for your system.
+1. Download the zip for your system.
 
-Extract it.
+2. Extract it.
 
-Run
+3. Play!
