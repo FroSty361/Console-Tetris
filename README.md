@@ -27,3 +27,15 @@ How to Run,
 2. Extract it.
 
 3. Play!
+
+# Input
+
+Move Input,
+1. LeftArrow = Move Left
+2. RightArrow = Move Right
+3. UpArrow = Rotate (Clockwise)
+4. DownArrow = Move Down
+
+Input,
+1. Space = Chane Music
+2. Escape = End Game
